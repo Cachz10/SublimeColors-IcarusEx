@@ -1,6 +1,6 @@
 IcarusEx
 ======================
 
-A port of IcarusEx Theme for Sublime Text 2
+A Theme for Sublime Text 2
 
 
